@@ -1,2 +1,2 @@
-textstat=0.5.6 
+textstat==0.5.6 
 pandas
